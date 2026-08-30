@@ -17,7 +17,7 @@ An AI-powered Tic Tac Toe game where the computer never loses using the Minimax 
 ## 📷 Preview
 
 ### Game in Progress
-![Game](output.png)
+![Game](image.png)
 
 ### Final Result
 ![Result](output1.png)
